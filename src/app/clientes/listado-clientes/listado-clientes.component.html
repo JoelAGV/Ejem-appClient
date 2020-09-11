@@ -1,7 +1,7 @@
 <h2 class="h1">
   Listado Clientes
 </h2>
-<div  id="NoC" *ngIf="! clientes.length">  No hay clientes en este momento </div>
+<div  id="NoC" class="text-warning" *ngIf="! clientes.length">  No hay clientes en este momento </div>
 <div>
   <article *ngFor="let cliente of clientes">
     <span>{{cliente.nombre}}</span>
