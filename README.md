@@ -1,2 +1,2 @@
 # Ejem-appClient
-Ejercicio realizado en _Angular_ y añaadiendo _Bootstrap_
+Ejercicio realizado en _Angular_ y añadiendo _Bootstrap_
