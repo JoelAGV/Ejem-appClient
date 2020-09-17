@@ -6,7 +6,6 @@ import { FormsModule } from "@angular/forms";
 import { ListadoClientesComponent } from './listado-clientes/listado-clientes.component';
 
 
-
 @NgModule({
   declarations: [AltaClienteComponent, ListadoClientesComponent],
   imports: [
